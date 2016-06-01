@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodOrderingApp</string>
+    <string name="action_cart">Cart</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rv_empty_text">Nothing to show here yet. Please select some items.</string>
+</resources>
